@@ -1,19 +1,19 @@
 # DesafioPiratasDeDados
 
-#Exercicio
+# Exercicio
 Extrair dados de um site e gravar os resultados em um arquivo.
 
-#Introdução
+# Introdução
 Apresentar dados do site dos correios com  pelo menos dois estados. Para cada estado, capturar 100 registros.
 Cada registro deve conter uma "localidade" e uma "faixa de cep". Salvar em formato de saída JSONL.
 
-#Instalação
+# Instalação
 
 - Editor de texto Gedit
 - Navegador web (Firefox, Chrome)
 - Instalar o python
 
-#Recursos para execução
+# Recursos para execução
 
 //Importar as bibliotecas, request para acesso cliente http e BeautifulSoup para estruturar o conteúdo da página.
 import requests
